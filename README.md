@@ -1,6 +1,8 @@
 # Alienware-M15-ALW15M-D4501B-hackintosh-opencore
 Alienware M15(ALW15M-D4501B) hackintosh opencore efi
 
+外星人 M15R2 版本
+
 ## 适用版本 
  bigsur
  Monterey
